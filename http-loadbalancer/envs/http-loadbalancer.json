@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "http-loadbalancer-10",
+  "private_key_id": "0e5e1723f759ae3b23a43ab16d495da52b4c79d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMWfRtZB3LAXzT\n/coWS/JVhW5nQb6wsjqs48Ko/p0nnDWFMXc+iniDxm5gJcAK2t6BikHKakwcPz2f\neJMycjzwIYCkCgvLE+dKPzvrjkvvfIFg6KUKNLJ3QvK+LrDIn0tAjeDaT0nqPte/\nTX9H94+Rr3bHPNJqMbPWTEYOYfSUKAxDkuAN6szxKNwp/n4s29GFWu60Vd2lRmF9\nSpiMX9YmCawCZ1OjDGjrmmG0Lf1ZVB7Z9Jw2D6ZvIaI9DemGzhm1Cj62evFOEUEO\nDJalUZ5cJo9ymnvCI33tcWhwsGRt/evntsSKbgDMdc46DqjL5zZRyLhqIEa1qeG+\n3J76DYmtAgMBAAECggEACVcdPHjEgdhmD7x8Zat//pe0NaUEJchntSpN5fKJVVum\n+JkLtcCXhJJnzh47mmNpoysiGbHlG69qTiUxOS+OiH1Hh3fsFRKqUjL0tq4Q23fp\n4/eOP5qsA5Z8SOQScYESa/dwLRpNqxbHPre4lx4CImsON0oY5gCykxt2Ykbo6nKb\nPmfx3V3vIvH0M3UbnSoB6SdaAm9WPBEZuSN09NALdUiOCKaNNr6sRYmKtXVQrMlt\nncg1sbcS1LbbD4I7YVsEZ8ZQBvFMEdauQgIDE/SjcIjYmFGAwfv3YWDTFy4HImSv\ni9lcdPduOOwJ/JoeHhq+Z3mFYw5BhVkW3vReWC8sIQKBgQDq0F443aTWgSM40gRw\nksST8h1Yp4GZ+6JYPu38FhQGwkZlcj2fvguwCIMyp1VcTd6UVATWlBj/5PfvvKcx\nPNndTaqYh6vkFuhCrcHxOYt1BFHUGqd6ORfztV1Goave65FQGj6g+03VecMBVBa3\nkiH4nHOhpVewf1Bbs5fxd5swEQKBgQDeyfnKKI5kGFStb4mqRbrZqCf+PvcpLYWh\nN2yKqb5vAPfZn/dKwGRpY8/CeKdkUM1nYWqq7q9fJ5wbVOtHuoQArxmWb6V5Oiww\nsmWlCgfDHcc3wvBOtUuE+fkr73ugx0dlMJHhIKIuy/0d8k8NMgFczDMhOy2jczBa\n7Mfg3g9b3QKBgECg9S4Fozb++CjNdTdezghCXV1nTT6KidZsC6iUkxKBKksFtHxh\nHGppDWNFtzLeo+KDdYlx3aeg57TuYb4ll3lXxRqSTPdMbsTbekPgqMeeVr9gTrRP\nPo5vXqrwGJQUljxL3O0F/hhBmTCmalJAQGVi+liFX6tOf1meBrYJS4dhAoGAO02e\nPS7AgGptl+EZzwZSr39wbeAK4J4qdPiQ3vRCKcAjOX24UOCXmeoksop1XGGZ24v1\n3dw9OGINzsSzAFvoqVnywLWlYXiXrLrADcd2u3xgvDoax4jAunvj1MshqHGDUq80\nFa4fHb/U97S5UDTgYfhFH/Jlup194KYoqnXRts0CgYAeLiG0AhxXHOI26DV4hFBd\nMwQ1b8vF2NZ3c8M+LrlMmawcRF9psBgScfro0OMN++JVAc4kbMIT4oeFCGIhgGTq\ndcKOo1aI95ELlPuY25pgpID/NTzhuIw3nqgPp+RPlNwjLmtlb+L4lMvoStr0zZdS\n0FI4PTeyq1p3LXkngXU0dg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@http-loadbalancer-10.iam.gserviceaccount.com",
+  "client_id": "104370224228008692677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40http-loadbalancer-10.iam.gserviceaccount.com"
+}
